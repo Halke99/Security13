@@ -75,7 +75,7 @@ public class User {
         this.role = role;
     }
 
-    // Override equals and hashCode for proper comparison
+    
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
